@@ -1,0 +1,6 @@
+print("enter first digit:")
+num1 = int(input())
+print("enter second digit:")
+num2 = input()
+val = num1 + int(num2)
+print("sum of the digit is:",val)

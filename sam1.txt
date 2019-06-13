@@ -1,0 +1,2 @@
+same is a smart boy 
+he made this file using python file handeler
